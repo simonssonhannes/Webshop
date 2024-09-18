@@ -1,0 +1,20 @@
+[
+    {
+        "id": 1,
+        "name": "Apple iPhone 14",
+        "price": 999.99,
+        "image": "https://example.com/iphone14.jpg"
+    },
+    {
+        "id": 2,
+        "name": "Apple MacBook Pro",
+        "price": 1999.99,
+        "image": "https://example.com/macbook.jpg"
+    },
+    {
+        "id": 3,
+        "name": "Apple AirPods Pro",
+        "price": 249.99,
+        "image": "https://example.com/airpods.jpg"
+    }
+]
